@@ -36,21 +36,20 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Interchange",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Mac"
-			]
-		},
-		{
 			"Name": "InterchangeAssets",
 			"Enabled": false
 		},
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
+		},
+		{
+			"Name": "MetaHumanSDK",
+			"Enabled": false
 		}
 	]
 }
